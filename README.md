@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=20B2AA&size=35&center=true&vCenter=true&width=1000&lines=Hi+there!+👋;I'm+Jefferson+Jianlong+Zhao;Front-End+Engineer+from+Brazil;Welcome+to+my+GitHub+Profile!+💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=20B2AA&size=35&center=true&vCenter=true&width=1000&lines=Hi+there!+(≧◡≦)ノ;I'm+Jefferson+Jianlong+Zhao;Front-End+Engineer+from+Brazil;Welcome+to+my+GitHub+Profile!+💻)](https://git.io/typing-svg)
 
 ---
 
-### 🌟 About Me
+### About Me ＼(＾▽＾)／
 #### I'm Jefferson Jianlong Zhao, a Front-End Engineer with a passion for building efficient and user-friendly web applications.  
 - 💻 **Front-End Engineer**, specialized in **Vue.js, React, and Node.js**.  
 - 🎓 Graduating in **System Analysis and Development** at [USF](https://www.usf.edu.br/) (July 2025).  
