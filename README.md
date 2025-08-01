@@ -22,7 +22,6 @@
 #### Ferramentas e Plataformas:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&labelColor=44475a)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&labelColor=44475a)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&labelColor=44475a)&nbsp;
 
 ---
 
