@@ -4,7 +4,7 @@
 
 ---
 
-### Olá ＼(＾▽＾)／
+### Sobre mim ＼(＾▽＾)／
 #### I'm Jefferson Jianlong Zhao, a Front-End Engineer with a passion for building efficient and user-friendly web applications.  
 - 💻 **Front-End Engineer**, specialized in **Vue.js, React, and Node.js**.  
 - 🎓 Graduating in **System Analysis and Development** at [USF](https://www.usf.edu.br/) (July 2025).  
