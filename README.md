@@ -5,7 +5,7 @@
 ---
 
 ### Sobre mim ＼(＾▽＾)／
-#### Nome: Jefferson Jianlong Zhao. 
+#### Nome: Jefferson Jianlong Zhao 
 - 💻 **Desenvolvedor Front-End**, Especializado em **React e HTML5**.  
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** na [USF](https://www.usf.edu.br/) (July 2025).  
 - 💬 No momento estou me aprimorando em **HTML5**.  
