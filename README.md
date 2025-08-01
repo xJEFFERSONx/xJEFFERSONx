@@ -8,8 +8,8 @@
 #### Nome: Jefferson Jianlong Zhao. 
 - 💻 **Desenvolvedor Front-End**, Especializado em **React e HTML5**.  
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** na [USF](https://www.usf.edu.br/) (July 2025).  
-- 💬 Open to questions about **JavaScript, Vue.js, React, Node.js, MongoDB, and SQL**.  
-- 🧋 Fun Fact: **I’m an otaku who loves anime, manga, and everything about Japanese culture.**
+- 💬 No momento estou me aprimorando em **HTML5**.  
+- 🧋 Um fato divertido sobre mim **Eu gosto de animes e a cultura japonesa.**
 
 ---
 
