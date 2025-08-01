@@ -13,8 +13,8 @@
 
 ---
 
-### 🛠️ Technologies & Tools
-#### Languages & Frameworks:
+### 🛠️💻 Tecnologias e Ferramentas.
+#### Linguagens e Frameworks:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=44475a)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-42B883?style=for-the-badge&logo=vue.js&labelColor=44475a)&nbsp;
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&labelColor=44475a)&nbsp;
